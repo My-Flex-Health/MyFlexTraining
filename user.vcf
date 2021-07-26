@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Tran;Cindy;;;
-FN: Cindy  Tran 
+N:My Flex Training;;;
+FN: My Flex Training
 ORG:My Flex Health;
-TITLE:Marketing & QA Assistant
-EMAIL;type=INTERNET;type=WORK;type=pref:cindyt@myflexhealth.com.au
-TEL;type=WORK;type=VOICE:(08) 9427 7516
-item1.ADR;type=WORK;type=pref:;;27 Brewer Street\nPERTH\, ;;;6000;WA
+TITLE:Registered Training Organisation
+EMAIL;type=INTERNET;type=WORK;type=pref:training@myflexhealth.com.au
+TEL;type=WORK;type=VOICE:(08) 9427 7518
+item1.ADR;type=WORK;type=pref:;;97 Edward Street\nPERTH\, ;;;6000;WA
 item1.X-ABADR:AUS
-item2.URL;type=pref:myflexhealth.com.au
+item2.URL;type=pref:www.myflexhealth.com.au/training/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
